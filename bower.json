@@ -1,0 +1,11 @@
+{
+  "name": "Divvy",
+  "version": "0.0.1",
+  "author": "Han Hua",
+  "dependencies": {
+    "d3": "~3.4.6",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0",
+    "bootstrap": "~3.1.1"
+  }
+}
